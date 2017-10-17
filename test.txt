@@ -5,3 +5,4 @@ add dev switch
 I am modify bug01 and working in dev.
 hello world
 my name is cfx
+this is a github test
