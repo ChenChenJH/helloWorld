@@ -6,3 +6,4 @@ I am modify bug01 and working in dev.
 hello world
 my name is cfx
 this is a github test
+today is 2017/10/19
