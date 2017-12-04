@@ -1,0 +1,7 @@
+public void hello(){
+	
+}
+
+public void go(){
+	System.out.println("hello java");
+}
