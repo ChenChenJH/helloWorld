@@ -1,3 +1,6 @@
+public void study(){
+
+}
 
 public void learn(){
 	System.out.println("hello java");
