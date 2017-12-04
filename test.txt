@@ -1,6 +1,3 @@
-public void test(){
-	go();
-}
 
 public void learn(){
 	System.out.println("hello java");
