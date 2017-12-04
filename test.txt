@@ -1,6 +1,6 @@
 
 public add(){
-
+	System.out.println("Two Day");
 }
 public void study(){
 	System.out.println("I love You");
