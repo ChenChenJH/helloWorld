@@ -1,9 +1,7 @@
-this is a test
-yes
-Creating a new branch is quick and simple.
-add dev switch
-I am modify bug01 and working in dev.
-hello world
-my name is cfx
-this is a github test
-today is 2017/10/19
+public void test(){
+
+}
+
+public void learn(){
+	System.out.println("hello java");
+}
