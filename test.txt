@@ -1,5 +1,9 @@
+
+public add(){
+
+}
 public void study(){
-	System.out.println("You");
+	System.out.println("I love You");
 }
 
 public void learn(){
